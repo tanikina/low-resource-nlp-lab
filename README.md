@@ -5,10 +5,10 @@
 
 ### Main Path Notebooks
 
-| Topic         | Keywords| Jupyter Notebook     | Colab Link | Data |
-|:--------------|:---|:------------|:------------|:----|
-| Intent Classification with `adapters` | Sequence Classification, Language & Task Adapters | [Intent Classification with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb) | [**EN-Test**](https://github.com/tanikina/low-resource-nlp-lab/blob/main/datasets/english_test_radr_intents.csv)|
-| Slot Tagging with `adapters` | Token Classification, LoRA Adapter | [Slot Tagging with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) | [**DE-Slots**](https://github.com/tanikina/low-resource-nlp-lab/blob/main/datasets/radr_slots) |
+| Topic         | Keywords| Jupyter Notebook     | Colab Link |
+|:--------------|:---|:------------|:------------|
+| Intent Classification with `adapters` | Sequence Classification, Language & Task Adapters | [Intent Classification with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb) |
+| Slot Tagging with `adapters` | Token Classification, LoRA Adapter | [Slot Tagging with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) |
 | Exercise Notebook |  | [Language Transfer Exercise](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | |
 
 ---
