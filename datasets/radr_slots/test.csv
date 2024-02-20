@@ -1,0 +1,101 @@
+id,text,unit_tags,task_tags,means_tags,goal_tags,way_tags
+101,mach mal ein Foto zur Orientierung für mich,O O O O O O O O,B I I I I I O O,O O O O O O O O,O O O O O O O O,O O O O O O O O
+1384,Und desweiteren erkunden Sie die südliche Gebäudewand von ihrem Standort aus in westlicher Richtung,O O O B O O O O O O O O O O,O O B I I I I I I I I I I I,O O O O O O O O O O O O O O,O O O O B I I O O O O O O O,O O O O O O O O O O O O O O
+1588,ja landet erst mal ihr kriegt einen neuen Auftrag,O O O O B O O O O,O B I I O O O O O,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+1104,mach mal Fotos auch wenn du was findest dass man den Weg nachvollziehen kann,O O O O O B O O O O O O O O,B I I I I I I I I I I I I I,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O
+1751,ja schickst du mir mal ein Foto,O O B O O O O,O B I I I I I,O O O O O O O,O O O O O O O,O O O O O O O
+1128,das gleiche Bild was du jetzt gemacht hast da in die Mitte reinzoomen da wo die Rauchentwicklung ist,O O O O B O O O O O O O O O O O O O,O O O O O O O O O B I I I I I I I I,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O
+2118,Kannst du mir mal grob deine Position auf der Karte durchgeben,O B O O O O O O O O O,O O O O O B I I I I I,O O O O O O O O O O O,O O O O O O O O O O O,O O O O O O O O O O O
+393,Wassertrupp bedient den Feuerlöscher,B O O O,O B I I,O O O O,O O O O,O O O O
+424,Drohnenoperator erkundet den Gefahrenbereich und macht die Bilder,B O O O O O O O,O B I I O B I I,O O O O O O O O,O O O O O O O O,O O O O O O O O
+338,schicken Sie mir das Foto,O B O O O,B I I I I,O O O O O,O O O O O,O O O O O
+380,Angrifftrupp zum Ankleiden vom Wassertrupp,B O O O O,O B I I I,O O O O O,O O O O O,O O O O O
+529,dann bitte einmal ein Foto davon und wieder landen,O O O O O O O O O,O O B I I I O B I,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+1041,folgenden Auftrag den gleichen Weg nehmen wie Operator 1,O O O O O O O O O,O O B I I I I I I,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+365,Wassertrupp mit Verteiler Gefahrenbereich markieren,B O O O O,O O O B I,O B I O O,O O O O O,O O O O O
+2563,D1 mitgehört sie können wieder die Innenerkundung starten kommen,B O O O O O O O O,O O O O O O B I O,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+2660,Alles klar für sie Rückkehr an den Gefahrenbereich vor die Halle kommen,O O O B O O O O O O O O,O O O O B I I I O O O O,O O O O O O O O O O O O,O O O O O O O O B I I O,O O O O O O O O O O O O
+811,ja korrekt da stehen bleiben,O O O O O,O O B I I,O O O O O,O O O O O,O O O O O
+1373,Für sie Auftrag innerhalb des Gebäudes nach Hitze  und Rauchquellen suchen,O B O O O O O O O O O O,O O O B I I I I I I I I,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+385,Wassertrupp bereitet Löschwasser mit der Saugleitung vor,B O O O O O O,O B I O O O O,O O O B I I O,O O O O O O O,O O O O O O O
+1688,schick mir mal ein Foto wo ihr steht damit ich ein bisschen zuordnen kann,O O O O O O B O O O O O O O,B I I I I I I I O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O
+1825,Angriffstrupp zur Personenbefreiung mit dem Rettungsspreizer zum verunfalltem Auto über die Wiese vor,B O O O O O O O O O O O O,O B I O O O O O O O O O O,O O O B I I O O O O O O O,O O O O O O B I I O O O O,O O O O O O O O O B I I O
+1653,ja reicht mir erst mal aus setz die Erkundung fort,O O O O O O O O O O,O O O O O O B I I I,O O O O O O O O O O,O O O O O O O O O O,O O O O O O O O O O
+2297,Fahr trotzdem erst mal in die Richtung,O O O O O O O,B I I I I I I,O O O O O O O,O O O O O O O,O O O O O O O
+969,mach mal bitte an den relevanten Punkten Fotos dass wir den hinterher nachvollziehen können,O O O O O O O O O O O O O O,B I I I I I I I O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O
+413,Der Trupp transportert die Verletzten mit hilfe von Krankentrage,B I O O O O O O O,O O B I I O O O O,O O O O O B I I I,O O O O O O O O O,O O O O O O O O O
+384,Wassertrupp zum Kuppeln von Saugleitung vor,B O O O O O,O B I I I O,O O O O O O,O O O O O O,O O O O O O
+2672,Sofortiger Stop des Roboters Kontaminationsverschleppung bitte verweilen sie am Gefahrenbereich kommen,O O O O O O O B O O O,B I I I O O B I I I O,O O O O O O O O O O O,O O O O O O O O O O O,O O O O O O O O O O O
+419,D3 zur Erkundung mit Thermalkamera in die Lagerhalle durch das Tor vor,B O O O O O O O O O O O,O B I O O O O O O O O O,O O O B I O O O O O O O,O O O O O B I I O O O O,O O O O O O O O B I I O
+1098,dann bitte weiter suchen,O O O O,O O B I,O O O O,O O O O,O O O O
+47,kommst du näher an das blaue Fass dass wir eine Erkennung haben,O B O O O O O O O O O O,B I I I I I I I I I I I,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+609,der Einsatz Auftrag ist unverändert Erkundung nach Personen,O O O O O O O O,O O O O O B I I,O O O O O O O O,O O O O O O O O,O O O O O O O O
+35,mach mal ein Foto,O O O O,B I I I,O O O O,O O O O,O O O O
+1820,Angriffstrupp und Wassertrupp rüsten sich mit Form 1 und Atemschutz aus und gehen in den Bereitstellungsraum,B I I O O O O O O O O O O O O O,O O O B I I I I I I I O B O O O,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O B I I,O O O O O O O O O O O O O O O O
+2238,Und guck mal ob du ein genaues Bild von diesen Samples kriegen kannst,O O O O B O O O O O O O O,O B I I I I I I I I I I I,O O O O O O O O O O O O O,O O O O O O O O O O O O O,O O O O O O O O O O O O O
+1846,möglicherweise sind dann auch Personen vermisst also Personensuche voran  bringen und dann eventuell noch nach der Schadenursache gucken,O O O O O O O O O O O O O O O O O O O,O O O O O O O B I I I O O O O B I I I,O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O
+447,Schlauchtrupp öffnet die Tür hinter dem grünen Fass,B O O O O O O O,O B I I O O O O,O O O O O O O O,O O O O B I I I,O O O O O O O O
+364,Wassertrupp zur Absicherung der Einsatzstelle,B O O O O,O B I I I,O O O O O,O O O O O,O O O O O
+1864,ja beide Bilder in Infrarot ebenfalls,O O O O O O,O O B I I O,O O O B I O,O O O O O O,O O O O O O
+2482,Für sie Auftrag es wird eine manipulation vorbereitet mit dem D2 kommen,O B O O O O O O O O O O,O O O B I I I I O O O O,O O O O O O O O B I I O,O O O O O O O O O O O O,O O O O O O O O O O O O
+2680,Ja das ist verstanen auch für sie zur Information der D2 hat seinen Auftrag erledigt für sie auch bitte die Drohne in der Nähe des Gefahrenbereiches an der Grenze absetzen kommen,O O O O O O B O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O B I I I I I I I I I I O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O B I I I I I I I O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2293,Und konntest du irgendwelche Markierungen darauf erkennen oder Schilder,O O B O O O O O O,O O O B I I I I I,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+2082,Okay Einsatzauftrag für dich du fährst weiter in die Halle rein und suchst nach dem Zugang mit dem du dich weiter nach Osten entwickeln kannst Kommen,O O O O B O O O O O O O O O O O O O O O O O O O O O,O O O O O B I I I I I O B I I I I I I I I I I I I O,O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O
+1824,Einsatzausrüstung Rettungs Arbeitsleine Lampe PA Strahlrohr Wasser,O O O O O O O,B I I I I I I,O O O O O O O,O O O O O O O,O O O O O O O
+2403,Das ist soweit verstanden dann bitte selbständig anfunken kommen,O O O O O O O O O,O O O O O O B I O,O O O O O O O O O,O O O O O O O O O,O O O O O O O O O
+372,Angriffsttrupp zur Menschenrettung vor,B O O O,O B I O,O O O O,O O O O,O O O O
+1742,ja ihr hattet doch eben zwei Fässer ausgemacht von oben könnt ihr den UGV 2 dorthin lotsen,O B O O O O O O O O O O O O O O O,O O O O O O O O O O O O B I I I I,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O B O,O O O O O O O O O O O O O O O O O
+452,Angrifftrupp tritt über das Haupttor ein,B O O O O O,O B I I I I,O O O O O O,O O O O O O,O O B I I O
+453,Gruppenführer Erkundung mit dem D fünf im Inneren der Halle,B O O O O O O O O O,O B O O O O O O O O,O O B I I I O O O O,O O O O O O B I I I,O O O O O O O O O O
+373,Angriffstrupp zum Abdichten des Gefahrenbereiches vor,B O O O O O,O B I I I O,O O O O O O,O O O O O O,O O O O O O
+334,ja schick ich jetzt den Angriff dorthin zum Lesen aber wenn du direkt vorbeikommst dann mach nur ein näheres Foto als Nachweis,O O O O O O O O O O O B O O O O O O O O O O,O O O O O O O O O O O O O O O B I I I I I I,O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O
+2496,Für sie Paralleleinsatz der D2 geht zur Manipulation in die Lagerhalle vor für sie Bereitstellung eines Luftbildes aus der Halle kommen,O B O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O B I I I I I O,O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O
+395,Angriffstrupp öffnet die Tür mit dem Nageleisen,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+159,kannst du einmal ein Foto von dem Fass machen in Richtung der Treppe dass man einen Orientierungspunkt hat,O B O O O O O O O O O O O O O O O O,O O O O B I I I I I I I I O O O O O,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O
+126,dann Erkundung zweiter Obergeschoss,O O O O,O B I I,O O O O,O O B I,O O O O
+400,Sie öffnen die Türen mit dem Spreizer,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+381,Angriffstrupp zur Brandbekämpfung mit dem Strahlrohr vor,B O O O O O O,O B I O O O O,O O O B I I O,O O O O O O O,O O O O O O O
+1596,schickst du mir dann auch von da mal ein Foto,O B O O O O O O O O,B I I I I I I I I I,O O O O O O O O O O,O O O O O O O O O O,O O O O O O O O O O
+2061,Macht bitte Fotos von Positionen die euch blöd vorkommen oder interessant vorkommen,O O O O O O O O O O O O,B I I I I I I I I I I I,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+1952,dann bitte eine Probe nehmen,O O O O O,O O B I I,O O O O O,O O O O O,O O O O O
+1573,schickst du mir noch mal ein aktuelles Foto euren Standortes,O B O O O O O O O O,B I I I I I I I I I,O O O O O O O O O O,O O O O O O O O O O,O O O O O O O O O O
+446,D5 fliegt über die Straße und macht Fotos von linker Seite,B O O O O O O O O O O,O B O O O O B I O O O,O O O O O O O O O O O,O O O O O O O O O O O,O O B I I O O O B I I
+433,Für sie Aufgabe Feuerlöschen mit D Rohr im Keller,O B O O O O O O O,O O O B O O O O O,O O O O B I I O O,O O O O O O O B I,O O O O O O O O O
+1523,ja dann fahrt mal hoch und erkundet da weiter,O O O O O O O O O,O O B I O O B I I,O O O O O O O O O,O O O O B O O O O,O O O O O O O O O
+2515,Der D3 fährt zum Objekt vor der D2 ist schon dort stellt das Überfass bereit kommen,O B O O O O O O O O O O O O O O,O O B I I I O O O O O B I I I O,O O O O O O O O O O O O O O O O,O O O B I O O O O O O O O O O O,O O O O O O O O O O O O O O O O
+454,D 4 zur Erkundung mit Infrarotkamera ins Gebäude durch das Tor vor,B I O O O O O O O O O O,O O B I O O O O O O O O,O O O O B I O O O O O O,O O O O O O B I O O O O,O O O O O O O O B I I O
+62,melden wenn Einsatzbereitschaft gegeben,O O O O,B I I I,O O O O,O O O O,O O O O
+1474,könnt ihr den Bereich mal abschwenken mit der Kamera und nach eventuellen Brandnestern suchen,O B O O O O O O O O O O O O,O O B I I I O O O O B I I I,O O O O O O B I I O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O
+451,Trupp zum Brandlöschen über die Wiese vor,B O O O O O O,O B I O O O O,O O O O O O O,O O O O O O O,O O O B I I O
+2487,Für sie zur Information es handelt sich um folgenden stoff Schwefelsäure für sie als Auftrag mit dem D2 einen umgefallenen Kanister der sich geöffnet hat der die Flüssigkeit enthält aufnehmen und in ein Überfass befördern kommen,O B O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O B I I I I I I I I I I I I I I I I O,O O O O O O O O O O O O O O O B I I O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2077,Wenn du hoch oder runterfährst sagst mir bitte vorher Bescheid Kommen,O B O O O O O O O O O,B I I I I I I I I I O,O O O O O O O O O O O,O O O O O O O O O O O,O O O O O O O O O O O
+2207,Ich orientiere mich nur an der Karte das heißt nach rechts wäre Osten du folgst einfach der langen Straße praktisch,O O O O O O O O O O O O O B O O O O O O,O O O O O O O O O O O O O O B I I I I O,O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O
+2608,Behältniss wurde ins Überfass verfrachtet positiv das Fass soll geschlossen werden kommen,O O O O O O O O O O O O,O O O O O O B I I I I O,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+2097,Kannst du mir mal ein Foto von deiner Position machen,O B O O O O O O O O,O O O O B I I I I I,O O O O O O O O O O,O O O O O O O O O O,O O O O O O O O O O
+421,Angrifftrupp zur Personensuche mit Atemschutz in den Keller durch den Vordereingang vor,B O O O O O O O O O O O,O B I O O O O O O O O O,O O O B I O O O O O O O,O O O O O B I I O O O O,O O O O O O O O B I I O
+477,Team auf Position gehen,B O O O,O B I I,O O O O,O O O O,O O O O
+440,D1 fliegt zum roten PKW,B O O O O,O B O O O,O O O O O,O O B I I,O O O O O
+2156,Einsatzauftrag bitte aufsteigen Übersichtsfoto machen wenn möglich aus allen vier Himmelsrichtungen kommen,O O O O O O O O O O O O,O O B B I I I I I I I O,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+801,Roboter 1 können Sie den Standort nochmal anfahren,B I O O O O O O,O O O O B I I I,O O O O O O O O,O O O O B I O O,O O O O O O O O
+1116,ich möchte mal dass du mit der   mit der Drohne jetzt weiter fliegst zum anderen Hochofen quasi von der anderen Seite der Einsatzstelle aus Fotos machst,O O O O B O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O B I O O O O B I I I I I I I I,O O O O O O O O O B I I O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O B I I O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+827,wenn betriebsbereit Auftrag durchführen,O O O O,B I I I,O O O O,O O O O,O O O O
+435,Sie ziehen es raus mit dem Rettungszylinder,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+184,UGV 1 versuch noch in hochsweite ein bisschen nähere Ergebnisse zu kriegen,B I O O O O O O O O O O,O O O O B I I I I I I I,O O O O O O O O O O O O,O O O O O O O O O O O O,O O O O O O O O O O O O
+406,Sie schneiden Holz mit der Motorkettensäge,B O O O O O,O B I O O O,O O O B I I,O O O O O O,O O O O O O
+438,D drei öffnet die Tür mit dem Plasmaschneider,B I O O O O O O,O O B I I O O O,O O O O O B I I,O O O O O O O O,O O O O O O O O
+1126,dass du dieses Bild nochmal machst aber reinzoomst,O B O O O O O O,O O B I I I I I,O O O O O O O O,O O O O O O O O,O O O O O O O O
+1818,Wassertrupp übernimmt Verkehrsabsicherung,B O O,O B I,O O O,O O O,O O O
+402,Trupp macht ein Loch mit dem Gurtmesser,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+431,Trupp zum Brandlöschen mit dem B Rohr vor,B O O O O O O O,O B I O O O O O,O O O B I I I O,O O O O O O O O,O O O O O O O O
+436,D fünf macht Bilder mit der Thermalkamera,B I O O O O O,O O B I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+2475,Für sie WHS Rückzug aus der Lagerhalle erkundungsauftrag beendet kommen,O O B O O O O O O O,O O O B I I I O O O,O O O O O O O O O O,O O O O O O O O O O,O O O O O O O O O O
+371,Maschinist zur Atemschutzüberwachung vor,B O O O,O B I O,O O O O,O O O O,O O O O
+1858,ich brauch einmal ein Lagebild von oben wo das komplette Objekt abgebildet wird und dann speziell ein Foto zwischen den beiden Türen,O O O O O O O O O O O O O O O O O O O O O O,O O O B I I I I I I I I I O O O B I I I I I,O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O
+441,D3 fährt innen in die Lagerhalle,B O O O O O,O B O O O O,O O O O O O,O O B I I I,O O O O O O
+2134,Und dann weiter vorgehen,O O O O,O O B I,O O O O,O O O O,O O O O
+407,Trupp fällt die Bäume mit der Motorkettensäge,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+443,Wassertrupp mit dem Rohr zur Unterstützung des Angrifftrupps ins Keller,B O O O O O O O O O,O O O O B I I I O O,O B I I O O O O O O,O O O O O O O O B I,O O O O O O O O O O
+420,Angrifftrupp zur Personensuche mit Atemschutz in den Keller durch den Vordereingang vor,B O O O O O O O O O O O,O B I O O O O O O O O O,O O O B I O O O O O O O,O O O O O B I I O O O O,O O O O O O O O B I I O
+2561,Für sie ist der Erkundungsauftrag beendet kommen,O B O O O O O,O O O O B I O,O O O O O O O,O O O O O O O,O O O O O O O
+884,jetzt gilt der Auftrag auslaufende Chemikalien und Gefahrstoffe zu finden und zu orten,O O O O O O O O O O O O O,O O O O B I I I I I I I I,O O O O O O O O O O O O O,O O O O O O O O O O O O O,O O O O O O O O O O O O O
+416,Sie transportieren die Person in der Schleifkorbtrage,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O

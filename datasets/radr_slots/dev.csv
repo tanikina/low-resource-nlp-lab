@@ -1,0 +1,24 @@
+id,text,unit_tags,task_tags,means_tags,goal_tags,way_tags
+2339,Halt deine Position,O O O,B I I,O O O,O O O,O O O
+449,Sie gehen ins Gebäude durch den Vordereingang,B O O O O O O,O B O O O O O,O O O O O O O,O O B I O O O,O O O O B I I
+1713,ja dann tausch das Akku nochmal aus und flieg die Strecke nochmal ab,O O O O O O O O O O O O O,O O B I I I I O B I I I I,O O O O O O O O O O O O O,O O O O O O O O O O O O O,O O O O O O O O O O O O O
+357,Wassertrupp zur Schlauchhaspel,B O O,O B I,O O O,O O O,O O O
+2148,Unser Auftrag Gasquelle lokalisieren,O O O O,O O B I,O O O O,O O O O,O O O O
+905,benötige Foto,O O,B I,O O,O O,O O
+510,fliegen Sie mit der Drohne über den linken Hochofen oberste Höhe und dann ein Foto senden,O B O O O O O O O O O O O O O O,B I I I I I I I I I I O O B I I,O O B I I O O O O O O O O O O O,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O
+459,D5 macht den Überblick und die Fotos im inneren Bereich,B O O O O O O O O O,O B I I O B I O O O,O O O O O O O O O O,O O O O O O O B I I,O O O O O O O O O O
+394,Angriffstrupp bricht die Tür mit der Brechstange,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+361,Angrifftrupp und Wassertrupp zur Brandbekämpfung jeweils mit einem C Rohr in das zweite Obergeschoss über den Treppenraum vor,B I I O O O O O O O O O O O O O O O,O O O B I O O O O O O O O O O O O O,O O O O O O B I I I O O O O O O O O,O O O O O O O O O O B I I I O O O O,O O O O O O O O O O O O O O B I I O
+362,Der Trupp startet ein Innenangriff mit der Schnellangriffsleitung,B I O O O O O O,O O B I I O O O,O O O O O B I I,O O O O O O O O,O O O O O O O O
+2633,Das ist verstanden dann für sie neuer Erkungnsauftrag in die Halle einfahren und den D2 durch eine Bildübertragung unterstützen kommen,O O O O O B O O O O O O O O O O O O O O,O O O O O O O O B I I I O B I I I I I O,O O O O O O O O O O O O O O O O O O O O,O O O O O O O O B I I O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O
+1995,und eine Einschätzung ob Undichtigkeit und wenn ja wie viel Flüssigkeit ausgetreten ist,O O O O O O O O O O O O O,O B I I I I I I I I I I I,O O O O O O O O O O O O O,O O O O O O O O O O O O O,O O O O O O O O O O O O O
+391,Schlauchtrupp zur Löschwasserentnahme durch Überflurhydrant vor,B O O O O O,O B I O O O,O O O B I O,O O O O O O,O O O O O O
+1374,Sollten dabei Verletzte oder chemische Substanzen gesichtet werden ebenfalls bitte melden und auf der Karte markieren,O O O O O O O O O O O O O O O O,B I I I I I I I I I I I I I I I,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O
+399,Sie heben den Deckel mit dem Hebebaum,B O O O O O O,O B I I O O O,O O O O B I I,O O O O O O O,O O O O O O O
+418,Gruppenführer Erkundung mit dem D3 im Inneren der Lagerhalle,B O O O O O O O O,O B O O O O O O O,O O B I I O O O O,O O O O O B I I I,O O O O O O O O O
+478,Boden 1 nach rechts,B I O O,O O O O,O O O O,O O O O,O O B I
+953,ja ich hätte gerne dass du mit dem Vogel da einmal über die Hochöfen fliegst nen Rundflug machstguckst ob du da irgendwelche Personen entdecken kannst,O O O O O B O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O B I I I I I I I I I I B I I,O O O O O O B I I O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O B I I O O O O O O O O O O O
+1229,Drohnenoperator starten Sie und über  machen Sie sich einen Überblick über die Lage,B O O O O O O O O O O O O O,O B O O O O B I I I I I I I,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O
+355,alle bitte hier zum Treffpunkt ans Zelt kommen,B O O O O O O O,B I I I I I I I,O O O O O O O O,O O O B I I I O,O O O O O O O O
+404,Für Sie Auftrag die Metallstäben mit dem Bolzenschneider trennen,O B O O O O O O O,O O O B I I I I I,O O O O O B I I O,O O O O O O O O O,O O O O O O O O O
+2603,Bitte ich sehe das bild vom D5 im Lagebildsystem bitte einmal die Gasse komplett durch es soll wohl noch Rauch aus den Schächten an der Seite kommen kommen,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O B I I I I I I I I I I I I I I I I I,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O

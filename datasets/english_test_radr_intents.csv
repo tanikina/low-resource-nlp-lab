@@ -1,0 +1,62 @@
+speaker,text,label
+TL,UGV one for team leader,4
+Operator,UGV one for team leader,5
+TL,Do you see anything Smoke or victims,3
+Operator,I see people walking around and I see smoke,2
+TL,Can you map can you add an a place point of interest on the map where you can see the smoke,1
+TL,UGV two for team leader,4
+Operator,Team leader here UGV two,5
+TL,Can you explore the area erm erm with search on the right,1
+Operator,Yes I do search on the right ,7
+Operator,Inside the facility or outside the facility,3
+TL,Outside,2
+Operator,Roger that Outside,7
+TL,UGV one for team leader,4
+Operator,UGV one,5
+TL,Can you see what direction of the smoke is,3
+TL,Ermthe the map is northoriented,2
+Operator,The wind is south the direction is north,2
+TL,Yeah one eighty degrees Thank you,6
+TL,UGV one UGV two ,4
+TL,The smoke is maybe Butyl acetone is into the smoke ,2
+TL,So methyl acetone I don't know the UN so you are here next as soon as possible for me,2
+Operator,Roger that,2
+Operator,UGV one for team leader,4
+TL,Yeah UGV one,5
+Operator,From my destination I saw a fire but now it's away,2
+TL,Can can you place a point of interest on the location of the fire ,1
+Operator,I put an icon on the plant where I was saw fire,2
+TL,When you see UGV one or UGV two when you see something like smoke or fire or victims plea please take a picture so I can see it,1
+TL,UGV one for team leader,4
+Operator,UGV one,5
+TL,Does the fire radiates something or someone huh,3
+Operator,It looks like I see barrels,2
+Operator,I go near the fire to look particular,2
+TL,Yeah Thank you very much ,6
+TL,UGV two for team leader,4
+Operator,Team leader,5
+TL,You have more information?,3
+Operator,Yes I've placed an obstacle I can't go through because I'm too high ,2
+Operator,I placed it on the map,2
+TL,Oh yeah Can't You can't drive around it,3
+Operator,Exactly,2
+TL,Okay Can you drive to into the plant,1
+Operator,I've gonna try I'll let you know,7
+TL,Thank you,6
+Operator,UGV two for team leader,4
+TL,UGV two,5
+Operator,Team leader I found a way into the facility on the right side of the fire ,2
+TL,Okay ,2
+TL,Do you have sight on the fire,3
+Operator,Delta ,4
+TL,Not yet,6
+Operator,UGV Delta,4
+TL,If you can make some pictures UGV two then it give me some v overview At this moment I've very poor overview,1
+Operator,Roger that team leader,7
+TL,UGV one for team leader,4
+Operator,UGV one,5
+TL,You please finish your erm ,1
+Operator,I try to complete the whole round,7
+TL,Thank you ,6
+TL,And when you see something interesting make a picture,1
+Operator,Yeah,7
