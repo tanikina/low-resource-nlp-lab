@@ -21,6 +21,8 @@
 | Prompt Tuning with `OpenPrompt` | Hard vs Soft Prompt Tuning | [OpenPrompt](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/OpenPrompt_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/OpenPrompt_Tutorial.ipynb) |
 | Active Learning with `small-text` | Text Classification, Active Learning Queries | [Active Learning](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Active_Learning_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Active_Learning_Tutorial.ipynb) |
 
+## 🛈 Resources:
+You can find additional information (links to papers and useful tools) in [the resources section](https://github.com/tanikina/low-resource-nlp-lab/tree/main/resources).
+
 ### Instructors:
 Dr. Simon Ostermann and Tatiana Anikina (DFKI, MLT Lab)
-
