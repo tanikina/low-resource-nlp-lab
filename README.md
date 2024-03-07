@@ -24,9 +24,6 @@
 ## 🛈 Resources:
 You can find additional information (links to papers and useful tools) in [the resources section](https://github.com/tanikina/low-resource-nlp-lab/tree/main/resources).
 
-### 🗳️ Notebook (S)election:
-Please vote for the next notebook from the advanced path: [https://nuudel.digitalcourage.de/bavohCcdhP5jlf5c](https://nuudel.digitalcourage.de/bavohCcdhP5jlf5c)
-
 ### ⁉️ Quiz Time:
 Test your knowledge here: [https://tanikina.github.io/low-resource-nlp-quiz/](https://tanikina.github.io/low-resource-nlp-quiz/)
 
