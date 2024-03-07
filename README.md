@@ -9,7 +9,8 @@
 |:--------------|:---|:------------|:------------|
 | Intent Classification with `adapters` | Sequence Classification, Language & Task Adapters | [Intent Classification with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb)      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Intent_Classification_Tutorial.ipynb) |
 | Slot Tagging with `adapters` | Token Classification, LoRA Adapter | [Slot Tagging with Adapters](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Slot_Tagging_Tutorial.ipynb) |
-| Exercise Notebook |  | [Language Transfer Exercise](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | |
+| Exercise Notebook | Language Transfer | [Language Transfer - Exercise](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise.ipynb) | |
+| Exercise Solution | Language Transfer | [Language Transfer - Solution](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise_Solution.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Adapters_Language_Transfer_Exercise_Solution.ipynb) | |
 
 ---
 
@@ -21,7 +22,7 @@
 | Prompt Tuning with `OpenPrompt` | Hard vs Soft Prompt Tuning | [OpenPrompt](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/OpenPrompt_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/OpenPrompt_Tutorial.ipynb) |
 | Active Learning with `small-text` | Text Classification, Active Learning Queries | [Active Learning](https://github.com/tanikina/low-resource-nlp-lab/blob/main/notebooks/Active_Learning_Tutorial.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanikina/low-resource-nlp-lab/blob/main/notebooks/Active_Learning_Tutorial.ipynb) |
 
-## 🛈 Resources:
+### 🛈 Resources:
 You can find additional information (links to papers and useful tools) in [the resources section](https://github.com/tanikina/low-resource-nlp-lab/tree/main/resources).
 
 ### ⁉️ Quiz Time:
